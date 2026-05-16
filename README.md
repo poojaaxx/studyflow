@@ -56,17 +56,13 @@ The interface follows a dark, modern aesthetic with glassmorphism cards, smooth 
 
 ## 🖥 Screenshots
 
-> _Replace the placeholders below with actual screenshots from your deployed app._
-
 | Dashboard | Task Manager |
 |:---------:|:------------:|
-| ![Dashboard](https://via.placeholder.com/480x300/060d1b/6EE7B7?text=Dashboard) | ![Tasks](https://via.placeholder.com/480x300/060d1b/FCA5A5?text=Task+Manager) |
+| ![Dashboard](public/screenshots/dashboard.png) | ![Tasks](public/screenshots/tasks.png) |
 
 | Pomodoro Timer | Progress Tracker |
 |:--------------:|:----------------:|
-| ![Pomodoro](https://via.placeholder.com/480x300/060d1b/C4B5FD?text=Pomodoro+Timer) | ![Progress](https://via.placeholder.com/480x300/060d1b/93C5FD?text=Progress+Tracker) |
-
----
+| ![Pomodoro](public/screenshots/pomodoro.png) | ![Progress](public/screenshots/progress.png) |
 
 ## 🚀 Live Demo
 
